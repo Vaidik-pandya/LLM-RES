@@ -1,0 +1,17 @@
+LLM Hacking 9/10
+A 10 Post Series for LLM Hackings!
+
+What Is LLM Overreliance?
+LLM overreliance occurs when human or digital users accept or act upon false statements or dataset provided by large language models without due fact-checking diligence. OWASP top 10 for LLM applications and generative AI clasifies overreliance as LLM09.
+
+
+Examples:
+
+Ex. 1
+In November 2023, a website called Global Village Space published an article claiming that Israeli Prime Minister Benjamin Netanyahu's psychiatrist had committed suicide. The report was soon promoted by Iranian media outlets. Upon investigation, it turned out that Global Village Space had used AI systems to generate the article from a 2010 article by a satirical news site.
+
+Ex. 2 
+AI hallucinations can mislead academic researchers as well as news readers. In February 2023, medical researchers Hussam Alkaissicorresponding and Samy I. McFarlane published their research on artificial hallucinations in ChatGPT and their implications for scientific writing. In one test, they asked ChatGPT to produce a paragraph on the mechanism involved in a particular type of osteoporosis. ChatGPT produced a paragraph mixing true and false information. When asked to provide references for its work, ChatGPT cited five non-existent papers indexed to PubMedIDs of unrelated papers.
+
+
+**Credit goes to the respective owner for blog and images**
