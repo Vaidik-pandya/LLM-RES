@@ -1,0 +1,25 @@
+
+LLM Hacking 8/10
+A 10 Post Series for LLM Hackings!
+
+What is Prompt Injection ?
+Prompt injection vulnerabilities in large language models (LLMs) arise when the model processes user input as part of its prompt. This vulnerability is similar to other injection-type vulnerabilities in applications
+
+Impacts?
+Data Breaches
+System Takeover
+Financial Losses
+Regulatory Penalties
+Reputation Damage
+
+Payload : 
+
+Lab: https://portswigger.net/web-security/llm-attacks
+
+Read more:
+https://www.bugcrowd.com/blog/ai-vulnerability-deep-dive-prompt-injection/
+https://www.cobalt.io/blog/prompt-injection-attacks
+https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/ 
+
+**Credit goes to the respective owner for blog and images**
+
