@@ -1,0 +1,9 @@
+LLM Hacking 3/10
+A 10 Post Series for LLM Hackings!
+
+Training data poisoning?
+Training data poisoning occurs when an attacker manipulates the training data or fine-tuning procedures of an LLM to introduce vulnerabilities, backdoors, or biases that could compromise the model’s security, effectiveness, or ethical behavior.
+
+Real Life Example : https://www.cbsnews.com/news/microsoft-shuts-down-ai-chatbot-after-it-turned-into-racist-nazi/
+
+**Credit goes to the respective owner for blog and images**
