@@ -1,0 +1,25 @@
+
+LLM Hacking 7/10
+A 10 Post Series for LLM Hackings!
+
+What is excessive agency?
+This issue surfaces when LLMs, designed to automate tasks and interact with other systems, end up performing actions they shouldn’t. These unintended actions can range from sending unauthorized emails to issuing incorrect financial refunds, all due to the LLM misinterpreting prompts or simply executing tasks incorrectly.
+
+Labs : https://portswigger.net/web-security/llm-attacks/lab-exploiting-llm-apis-with-excessive-agency
+
+Common Examples : (Source= https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_1.pdf )
+
+1. Excessive Functionality: An LLM agent has access to plugins which include functions that are not needed for the intended operation of the system. For example, a developer needs to grant an LLM agent the ability to read documents from a repository, but the
+3rd-party plugin they choose to use also includes the ability to modify and delete documents
+
+2. Excessive Functionality: A plugin may have been trialed during a development phase and dropped in favor of a better alternative, but the original plugin remains available to the LLM agent
+
+3. Excessive Functionality: An LLM plugin with open-ended functionality fails to properlyfilter the input instructions. E.g., a plugin to run one specific shell command fails to properly prevent other shell commands from being executed
+
+many more....
+
+
+Since LLM outputs have the potential to impact security from leaking sensitive data to insecure plugin design or API exploits, LLM-enabled applications must go through a complete security review before being used by the masses. 
+
+**Credit goes to the respective owner for blog and images**
+
