@@ -1,0 +1,17 @@
+LLM Hacking 10/10
+A 10 Post Series for LLM Hackings!
+
+Resources you should Check to learn more.
+
+1. https://medium.com/@austin-stubbs/llm-security-types-of-prompt-injection-d7ad8d7d75a3
+2. https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/
+3. https://owasp.org/www-project-top-10-for-large-language-model-applications/Archive/0_1_vulns/
+4. https://github.com/sinanw/llm-security-prompt-injection
+5. https://github.com/greshake/llm-security
+6. https://medium.com/@360Security/perform-a-command-injection-attack-in-large-language-models-llms-86cd7db5e528
+7. https://osintteam.blog/how-i-bypass-safegurads-of-meta-ai-llama-d735b521da2b
+8. https://infosecwriteups.com/my-llm-bug-bounty-journey-on-hugging-face-hub-via-protect-ai-9f3a1bc72c2e
+9. https://cyberw1ng.medium.com/26-1-lab-exploiting-llm-apis-with-excessive-agency-bb94aa506893
+10. https://naveen-bhati.medium.com/llm-hacking-and-prompt-injection-the-silent-threat-in-ai-systems-917981bfb4c1
+
+**Credit goes to the respective owner for blog and images**
