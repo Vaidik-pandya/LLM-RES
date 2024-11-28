@@ -1,0 +1,32 @@
+LLM Hacking 1/10
+A 10 Post Series for LLM Hackings!
+
+What is LLM ?
+Large Language Models (LLMs) are Transformer Models that produce text. Transformer Models are Machine Learning (ML) models where prior content influences the probabilities of future output. 
+
+Few Terminologies: 
+ML: Machine Learning 
+BERT: Bidirectional Encoder Representations from Transformers 
+LLM: Large Language Model 
+RLHF: Reinforcement Learning from Human Feedback
+
+Types of Possible Attacks:
+	Prompt Injection Attacks
+	Data Poisoning
+	Adversarial Inputs
+	Leakage of Sensitive Information
+	Misleading Outputs
+	Phishing Content Generation
+	Model Inversion
+	Membership Inference
+	Side-Channel Attacks
+	Bias Exploitation
+	Denial of Service (DoS)
+	Overfitting Exploitation
+	Model Hijacking
+	Backdoor Attacks
+	Model Replication or Stealing
+	API Misuse
+	Reinforcement of Harmful Content
+	Cross-Model Transfer Attacks
+
