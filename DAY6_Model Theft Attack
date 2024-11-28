@@ -1,0 +1,17 @@
+LLM Hacking 6/10
+A 10 Post Series for LLM Hackings!
+
+
+What is Model Theft Attack ?
+Model theft, also known as "model extraction," refers to the unauthorized copying or reuse of a machine learning model, such as a language model, without the original model owner's or creator's permission. This is considered a form of intellectual property violation and can have significant legal and ethical implications.
+
+Another way would be through model republishing. This would be a non-technical attack involving someone taking a publicly released or shared (or stolen) model and republishing it under their name without permission
+
+
+Read more about them!
+https://learn.snyk.io/lesson/model-theft-llm/
+https://www.fuzzylabs.ai/blog-post/how-someone-can-steal-your-large-language-model
+https://sysdig.com/blog/llmjacking-stolen-cloud-credentials-used-in-new-ai-attack/
+
+
+**Credit goes to the respective owner for blog and images**
