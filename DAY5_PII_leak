@@ -1,0 +1,18 @@
+LLM Hacking 5/10
+A 10 Post Series for LLM Hackings!
+
+
+What is this ?
+Sensitive information disclosure occurs when an LLM unintentionally outputs confidential or sensitive data, such as personally identifiable information (PII), financial records, or proprietary business data. 
+
+Examples : 
+Financial Data Exposure
+Personal Data Leaks
+Business Secrets
+Training Data with Sensitive Information
+
+Case Studies :
+https://www.akto.io/blog/llm-risks-insights-real-world-case-studies
+
+
+**Credit goes to the respective owner for blog and images**
