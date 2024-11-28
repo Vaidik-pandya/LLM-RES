@@ -1,0 +1,9 @@
+LLM Hacking 4/10
+A 10 Post Series for LLM Hackings!
+
+What is LLM Supply chain Attack ?
+LLM supply chain attacks target vulnerabilities in the components, libraries, tools, and processes used to build large language learning models. These include vulnerabilities associated with traditional software supply chains as well as LLM-specific supply chain elements, such as third-party:Training data, Pre-trained models, LLM plugin extensions etc.
+
+LLMs are components of larger supply chains and have their own supply chains that keep them updated and relevant. A compromised LLM could affect every application that integrates with it. If a popular LLM is backdoored, any software using this model is at risk. The same can be said of ‘poisoned’ LLM models, which are LLMs compromised with malicious data included in the training dataset.
+
+**Credit goes to the respective owner for blog and images**
